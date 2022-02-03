@@ -9,7 +9,7 @@
 
 [Themes](https://github.com/dnyaneshm36/themes.git)
 
-<copy-button>``` sudo cp -rp . /usr/share/themes ```</copy-button>
+<copy-button> sudo cp -rp . /usr/share/themes </copy-button>
 
 
 [Wallpaper](https://github.com/dnyaneshm36/wallpaper.git)
