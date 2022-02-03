@@ -5,16 +5,21 @@
 
 [Icons](https://github.com/dnyaneshm36/icons.git)
 
-``` sudo cp -rp . /usr/share/icons ```
+```bash
+ sudo cp -rp . /usr/share/icons 
+```
 
 [Themes](https://github.com/dnyaneshm36/themes.git)
 
-```bash sudo cp -rp . /usr/share/themes ```
-
+```bash
+sudo cp -rp . /usr/share/themes
+```
 
 [Wallpaper](https://github.com/dnyaneshm36/wallpaper.git)
 
-``` sudo cp -rp . /usr/share/wallpaper ```
+```bash
+ sudo cp -rp . /usr/share/wallpaper
+ ```
 
 # Install the chrome extentions
 (https://extensions.gnome.org)
