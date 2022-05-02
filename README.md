@@ -13,6 +13,7 @@
 
 ```bash
 sudo cp -rp . /usr/share/themes
+sudo scp -rp Roboto Roboto_Mono /usr/share/fonts/.
 ```
 
 [Wallpaper](https://github.com/dnyaneshm36/wallpaper.git)
