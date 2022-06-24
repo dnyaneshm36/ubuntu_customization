@@ -1,6 +1,6 @@
 
 # clone from git.
-
+If so please contact me on whatsapp +91 9652023790 i have a project for you and its paid project
 ##  put all the files icons in  /usr/share/icons
 
 [Icons](https://github.com/dnyaneshm36/icons.git)
